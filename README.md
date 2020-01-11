@@ -1,0 +1,2 @@
+# NumberOfRectanglesInAGrid
+Code war kata
